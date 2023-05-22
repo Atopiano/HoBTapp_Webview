@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.atopiano.myapp"
+      "package": "com.atopiano.hobt"
     },
     "web": {
       "favicon": "./assets/favicon.png"
